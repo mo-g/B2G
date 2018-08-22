@@ -37,7 +37,6 @@ def first(pred, itr):
 
     This function avoids running pred unnecessarily, so is suitable for use
     when pred is expensive.
-
     """
     try:
         return itertools.ifilter(pred, itr).next()
