@@ -26,3 +26,4 @@ or Telegram:
 Discuss with Developers:
 
   Discourse: https://discourse.mozilla-community.org/c/b2g-os-participation
+  
